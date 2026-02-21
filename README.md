@@ -1,3 +1,1 @@
-# demo
-
-some description!
+A small calorie tracker app
